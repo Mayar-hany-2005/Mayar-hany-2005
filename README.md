@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://i.imgflip.com/9y4mps.gif" width="100%" />
-</div>
 
-
-
-###
 
 <h2 align="center">Hi👋 I'm Mayar Hany</h2>
 
