@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/9y4mps.gif" height="200" />
+  <img src="https://i.imgflip.com/9y4mps.gif" width="800" />
 </div>
 
 
