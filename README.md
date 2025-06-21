@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.imgflip.com/9y4mps.gif" width="800" />
+  <img src="https://i.imgflip.com/9y4mps.gif" width="100%" />
 </div>
+
 
 
 ###
