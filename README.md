@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Hi, I'm Mayar Hany — a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.<br>I enjoy working with data — from exploring and cleaning it, to designing insightful dashboards and building predictive models that solve real-world problems.<br><br>I'm deeply interested in Machine Learning, Data Science, and making complex information easy to understand through data storytelling.<br>I'm also passionate about teaching, sharing knowledge, and helping others grow in the world of tech. ✨📈</p>
+<p align="left">Hi, I'm Mayar Hany a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.<br>I enjoy working with data from exploring and cleaning it, to designing insightful dashboards and building predictive models that solve real-world problems.<br><br>I'm deeply interested in Machine Learning, Data Science, and making complex information easy to understand through data storytelling.<br>I'm also passionate about teaching, sharing knowledge, and helping others grow in the world of tech. ✨📈</p>
 
 ###
 
