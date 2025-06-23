@@ -2,7 +2,7 @@
   <img src="https://i.imgflip.com/9y4mps.gif" width="100%" />
 </div>
 
-<h2 align="center" style="color:#ff69b4;">Hi 👋 I'm Mayar Hany</h2>
+<h2 align="center">💗 Hi 👋 I'm Mayar Hany</h2>
 
 ---
 
@@ -10,38 +10,35 @@
   💻 Data Enthusiast | 📊 Dashboard Creator | 🤖 AI & ML Learner
 </p>
 
-<p align="left">
-I'm Mayar Hany, a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.  
-I enjoy diving into datasets — from cleaning and exploring to designing visual dashboards and building predictive models that solve real-world problems.  
-
-I'm deeply interested in <b>Machine Learning</b>, <b>Data Science</b>, and transforming raw numbers into meaningful insights through storytelling.  
-I'm also passionate about sharing knowledge and helping others grow in tech. ✨📈
-</p>
-
 ---
 
 ## 💡 About Me
 
-```diff
-🧠 Interests
-- Data Analysis & Business Strategy
-- Artificial Intelligence & Machine Learning
-- Data Visualization & Storytelling
+I'm Mayar Hany, a passionate and motivated data enthusiast with hands-on experience in **Python, SQL, Excel, and Power BI**.  
+I enjoy diving into datasets — from cleaning and exploring to designing visual dashboards and building predictive models that solve real-world problems.  
 
-🛠️ Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- Power BI & Microsoft Excel
-- SQL & Relational Databases
-
-📖 Currently Learning
-- Advanced Machine Learning Techniques
-- Real-Time Data Pipelines & Big Data Tools
-
-
+I'm deeply interested in **Machine Learning**, **Data Science**, and transforming raw numbers into meaningful insights through storytelling.  
+I'm also passionate about sharing knowledge and helping others grow in tech. ✨📈
 
 ---
 
-##🌐 Connect with Me
+### 🧠 Interests
+- Data Analysis & Business Strategy  
+- Artificial Intelligence & Machine Learning  
+- Data Visualization & Storytelling  
+
+### 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- Power BI & Microsoft Excel  
+- SQL & Relational Databases  
+
+### 📖 Currently Learning
+- Advanced Machine Learning Techniques  
+- Real-Time Data Pipelines & Big Data Tools  
+
+---
+
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayar_Hany-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayar-hany-139a2a2a6)
 
@@ -59,6 +56,16 @@ I'm also passionate about sharing knowledge and helping others grow in tech. ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
+
+---
+
+### 🔧 Skills Badges
+
+![Python](https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff69b4?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-ff69b4?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-ff69b4?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff69b4?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
