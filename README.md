@@ -39,10 +39,16 @@ I'm also passionate about sharing knowledge and helping others grow in tech. ✨
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayar-hany-139a2a2a6)
+---
 
-## 💻 Tech Stack:
+##🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayar_Hany-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayar-hany-139a2a2a6)
+
+---
+
+## 💻 Tech Stack
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
@@ -54,30 +60,34 @@ I'm also passionate about sharing knowledge and helping others grow in tech. ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </p>
 
-
-
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayar-hany-2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayar-hany-2005&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mayar-hany-2005&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayar-hany-2005&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar-hany-2005&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar-hany-2005&theme=radical&hide_border=true&layout=compact&title_color=ff69b4" />
 </div>
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Mayar-hany-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Mayar-hany-2005&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayar-hany-2005&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=MultiLanguage,Stars,Followers,Repositories,Commits&title_color=ff69b4"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mayar-hany-2005&icon=4&color=0)](https://visitcount.itsvg.in)
+## 🔝 Top Contributed Repo
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-contributor-stats.vercel.app/api?username=Mayar-hany-2005&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Mayar-hany-2005&icon=4&color=ff69b4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM 💖 ( https://gprm.itsvg.in ) -->
