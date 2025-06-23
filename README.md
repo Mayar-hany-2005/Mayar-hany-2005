@@ -2,22 +2,40 @@
   <img src="https://i.imgflip.com/9y4mps.gif" width="100%" />
 </div>
 
+<h2 align="center" style="color:#ff69b4;">Hi 👋 I'm Mayar Hany</h2>
 
-<h2 align="center">Hi👋 I'm Mayar Hany</h2>
+---
 
-###
+<p align="center">
+  💻 Data Enthusiast | 📊 Dashboard Creator | 🤖 AI & ML Learner
+</p>
 
-<p align="left">Hi, I'm Mayar Hany a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.<br>I enjoy working with data from exploring and cleaning it, to designing insightful dashboards and building predictive models that solve real-world problems.<br><br>I'm deeply interested in Machine Learning, Data Science, and making complex information easy to understand through data storytelling.<br>I'm also passionate about teaching, sharing knowledge, and helping others grow in the world of tech. ✨📈</p>
+<p align="left">
+I'm Mayar Hany, a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.  
+I enjoy diving into datasets — from cleaning and exploring to designing visual dashboards and building predictive models that solve real-world problems.  
 
-###
+I'm deeply interested in <b>Machine Learning</b>, <b>Data Science</b>, and transforming raw numbers into meaningful insights through storytelling.  
+I'm also passionate about sharing knowledge and helping others grow in tech. ✨📈
+</p>
 
-<h2 align="left">✨ About Me</h2>
+---
 
-###
+## 💡 About Me
 
-<p align="left">🧠 Interests<br>› Data Analysis & Business Strategy<br>› Artificial Intelligence & Machine Learning<br>› Data Visualization & Storytelling<br><br>🧰 Tools & Technologies<br>› Python (Pandas, NumPy, Matplotlib, Scikit-learn)<br>› Power BI & Microsoft Excel<br>› SQL & Relational Databases<br><br>📖 Currently Learning<br>› Advanced Machine Learning Techniques<br>› Real-Time Data Pipelines & Big Data Tools</p>
+```diff
+🧠 Interests
+- Data Analysis & Business Strategy
+- Artificial Intelligence & Machine Learning
+- Data Visualization & Storytelling
 
-###
+🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Power BI & Microsoft Excel
+- SQL & Relational Databases
+
+📖 Currently Learning
+- Advanced Machine Learning Techniques
+- Real-Time Data Pipelines & Big Data Tools
 
 
 
