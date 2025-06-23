@@ -8,17 +8,18 @@
 ---
 
 <p align="center">
-  💻 Data Enthusiast | 📊 Dashboard Creator | 🤖 AI & ML Learner
+  💻 Data Analyst | 📊 Business Intelligence Developer | 🤖 ML Enthusiast
 </p>
+
 
 ---
 
 ## 💡 About Me
 
-I'm Mayar Hany, a passionate and motivated data enthusiast with hands-on experience in **Python, SQL, Excel, and Power BI**.  
-I enjoy diving into datasets — from cleaning and exploring to designing visual dashboards and building predictive models that solve real-world problems.  
+I'm Mayar Hany, a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.  
+I enjoy diving into datasets from cleaning and exploring to designing visual dashboards and building predictive models that solve real-world problems.  
 
-I'm deeply interested in **Machine Learning**, **Data Science**, and transforming raw numbers into meaningful insights through storytelling.  
+I'm deeply interested in Machine Learning, Data Science, and transforming raw numbers into meaningful insights through storytelling.  
 I'm also passionate about sharing knowledge and helping others grow in tech. ✨📈
 
 ---
