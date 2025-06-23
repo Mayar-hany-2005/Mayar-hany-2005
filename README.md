@@ -84,8 +84,9 @@ I'm also passionate about sharing knowledge and helping others grow in tech. ✨
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayar-hany-2005&theme=juicyfresh&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayar-hany-2005&theme=flat&no-frame=true&no-bg=true&margin-w=4&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&border_color=ff69b4" />
 </p>
+
 
 
 
