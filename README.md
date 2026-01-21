@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Woman-Working.gif"/>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 ## 👩‍💻 About Me
 
@@ -34,11 +34,12 @@ class MayarHany:
         self.role = "Data Engineer"
         self.location = "Giza, Egypt 🇪🇬"
         self.languages = ["Python", "SQL", "DAX"]
-        self.interests = ["ETL Pipelines", "Data Warehousing", "ML"]
+        self.interests = ["ETL Pipelines", "Data Warehousing", "ML", "DL"]
         
     def say_hi(self):
-        print("Thanks for visiting my profile!")
-        print("Let's build something amazing together!")
+        print("👋 Welcome to my data universe!")
+        print("💫 Turning messy data into magic!")
+        print("🚀 Let's engineer some insights together!")
 
 me = MayarHany()
 me.say_hi()
