@@ -97,32 +97,20 @@ me.say_hi()
 
 ## 🚀 Current Focus
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-
-  <!-- Card 1 -->
-  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    🔧 Robust ETL Pipelines
-  </div>
-
-  <!-- Card 2 -->
-  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    🏢 Efficient Data Warehouses
-  </div>
-
-  <!-- Card 3 -->
-  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    🐳 Containerized Apps (Docker)
-  </div>
-
-  <!-- Card 4 -->
-  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    ☁️ Cloud Solutions (AWS)
-  </div>
-
-  <!-- Card 5 -->
-  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    📚 Apache Spark & Kubernetes
-  </div>
+<table>
+  <tr>
+    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>🔧 Robust ETL Pipelines</b></td>
+    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>🏢 Efficient Data Warehouses</b></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>🐳 Containerized Apps (Docker)</b></td>
+    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>☁️ Cloud Solutions (AWS)</b></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>📚 Apache Spark & Kubernetes</b></td>
+    <td></td>
+  </tr>
+</table>
 
 <div align="center">
 
