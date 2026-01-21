@@ -97,11 +97,13 @@ me.say_hi()
 
 ## 🚀 Current Focus
 
-- 🔧 Building production-grade **ETL pipelines**
-- 🏢 Designing **data warehouse** architectures
-- 🐳 **Containerizing** data applications with Docker
-- ☁️ Implementing **cloud solutions** on AWS
-- 📚 Learning **Apache Spark** & **Kubernetes**
+<ul>
+  <li>🔧 <b style="color:#D8BFD8;">Developing robust ETL pipelines</b> for scalable data processing</li>
+  <li>🏢 <b style="color:#D8BFD8;">Designing efficient data warehouse architectures</b></li>
+  <li>🐳 <b style="color:#D8BFD8;">Containerizing data applications</b> using Docker</li>
+  <li>☁️ <b style="color:#D8BFD8;">Deploying cloud-based solutions</b> on AWS</li>
+  <li>📚 Expanding skills in <b style="color:#D8BFD8;">Apache Spark</b> & <b style="color:#D8BFD8;">Kubernetes</b></li>
+</ul>
 
 ---
 
