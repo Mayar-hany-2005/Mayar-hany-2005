@@ -22,8 +22,7 @@
      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## 👩‍💻 About Me
-
-```python
+python
 class MayarHany:
     def __init__(self):
         self.role = "Data Engineer"
@@ -38,7 +37,7 @@ class MayarHany:
 
 me = MayarHany()
 me.say_hi()
-
+<br clear="both"> 
 
 ## 🛠️ Tech Stack
 
