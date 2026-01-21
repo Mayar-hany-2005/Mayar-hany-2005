@@ -34,12 +34,11 @@ class MayarHany:
         self.role = "Data Engineer"
         self.location = "Giza, Egypt 🇪🇬"
         self.languages = ["Python", "SQL", "DAX"]
-        self.interests = ["ETL Pipelines", "Data Warehousing", "ML", "DL"]
         
     def say_hi(self):
-        print("👋 Welcome to my data universe!")
-        print("💫 Turning messy data into magic!")
-        print("🚀 Let's engineer some insights together!")
+        print(" Welcome to my data universe!")
+        print(" Turning messy data into magic!")
+        print(" Let's engineer some insights together!")
 
 me = MayarHany()
 me.say_hi()
