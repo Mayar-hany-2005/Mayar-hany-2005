@@ -24,8 +24,6 @@
 
 ---
 
-<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
 ## 👩‍💻 About Me
 
 ```python
@@ -35,7 +33,11 @@ class MayarHany:
         self.location = "Giza, Egypt 🇪🇬"
         self.languages = ["Python", "SQL", "DAX"]
         self.interests = ["ETL Pipelines", "Data Warehousing", "ML", "DL"]
-        
+```
+
+<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+```python
     def say_hi(self):
         print("👋 Welcome to my data universe!")
         print("💫 Turning messy data into magic!")
@@ -44,7 +46,6 @@ class MayarHany:
 me = MayarHany()
 me.say_hi()
 ```
-
 
 <br clear="both">
 
