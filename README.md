@@ -28,6 +28,10 @@
 
 ## 👩‍💻 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 ```python
 class MayarHany:
     def __init__(self):
@@ -35,7 +39,7 @@ class MayarHany:
         self.location = "Giza, Egypt 🇪🇬"
         self.languages = ["Python", "SQL", "DAX"]
         self.interests = ["ETL Pipelines", "Data Warehousing", "ML", "DL"]
-        
+
     def say_hi(self):
         print("👋 Welcome to my data universe!")
         print("💫 Turning messy data into magic!")
@@ -45,8 +49,7 @@ me = MayarHany()
 me.say_hi()
 ```
 
-<br clear="both">
-
+</td> <td width="40%" align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/> </td> </tr> </table>
 ---
 
 ## 🛠️ Tech Stack
