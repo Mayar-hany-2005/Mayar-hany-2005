@@ -59,8 +59,6 @@ me.say_hi()
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -111,7 +109,7 @@ me.say_hi()
 
 ### 💬 Connect With Me
 
-*"Data is the new oil, but like oil, it's valuable only when refined."*
+*"Data holds power, but only through analysis does it become priceless"*
 
 **📧 Open to collaborations and opportunities!**
 
