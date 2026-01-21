@@ -49,7 +49,7 @@ me.say_hi()
 
 </td>
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </td>
 </tr>
 </table>
