@@ -20,18 +20,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
-## 👩‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
-
-- 🎓 **Data Engineer** with strong background in **Business Intelligence**
-- 🏢 Experienced in building **ETL pipelines** & **data warehouses**
-- 📊 Passionate about turning raw data into **actionable insights**
-- 🤖 Interested in **Machine Learning & Data-Driven Products**
-- 🌍 Based in **Giza, Egypt 🇪🇬**
-
-<br clear="both">
-
 
 ## 🛠️ Tech Stack
 
