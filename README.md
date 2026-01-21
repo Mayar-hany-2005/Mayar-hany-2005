@@ -97,17 +97,34 @@ me.say_hi()
 
 ## 🚀 Current Focus
 
-<ul>
-  <li>🔧 <b style="color:#D8BFD8;">Developing robust ETL pipelines</b> for scalable data processing</li>
-  <li>🏢 <b style="color:#D8BFD8;">Designing efficient data warehouse architectures</b></li>
-  <li>🐳 <b style="color:#D8BFD8;">Containerizing data applications</b> using Docker</li>
-  <li>☁️ <b style="color:#D8BFD8;">Deploying cloud-based solutions</b> on AWS</li>
-  <li>📚 Expanding skills in <b style="color:#D8BFD8;">Apache Spark</b> & <b style="color:#D8BFD8;">Kubernetes</b></li>
-</ul>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
----
+  <!-- Card 1 -->
+  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🔧 Robust ETL Pipelines
+  </div>
 
-<div align="center">
+  <!-- Card 2 -->
+  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🏢 Efficient Data Warehouses
+  </div>
+
+  <!-- Card 3 -->
+  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🐳 Containerized Apps (Docker)
+  </div>
+
+  <!-- Card 4 -->
+  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    ☁️ Cloud Solutions (AWS)
+  </div>
+
+  <!-- Card 5 -->
+  <div style="background-color:#D8BFD8; color:#000; padding:15px 20px; border-radius:12px; min-width:200px; text-align:center; font-weight:bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    📚 Apache Spark & Kubernetes
+  </div>
+
+</div>
 
 ### 💬 Connect With Me
 
