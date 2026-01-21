@@ -26,7 +26,7 @@
 <img align="right" width="450"
      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
      
-<h1 style="color: #D8BFD8;">👩‍💻 About Me</h1>
+## 👩‍💻 About Me
 
 ```python
 class MayarHany:
