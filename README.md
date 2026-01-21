@@ -18,11 +18,17 @@
 
 
 
-<img align="right" width="380"
-     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/>
+
+</div>
+
+---
+
+<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## 👩‍💻 About Me
-python
+
+```python
 class MayarHany:
     def __init__(self):
         self.role = "Data Engineer"
@@ -37,7 +43,11 @@ class MayarHany:
 
 me = MayarHany()
 me.say_hi()
-<br clear="both"> 
+```
+
+<br clear="both">
+
+---
 
 ## 🛠️ Tech Stack
 
