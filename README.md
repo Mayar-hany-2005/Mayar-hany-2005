@@ -124,7 +124,7 @@ me.say_hi()
     📚 Apache Spark & Kubernetes
   </div>
 
-</div>
+<div align="center">
 
 ### 💬 Connect With Me
 
