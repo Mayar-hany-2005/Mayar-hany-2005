@@ -22,6 +22,8 @@
 
 </div>
 
+<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
 ---
 
 ## 👩‍💻 About Me
@@ -33,9 +35,7 @@ class MayarHany:
         self.location = "Giza, Egypt 🇪🇬"
         self.languages = ["Python", "SQL", "DAX"]
         self.interests = ["ETL Pipelines", "ML", "DL"]
-```
 
-<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```python
     def say_hi(self):
