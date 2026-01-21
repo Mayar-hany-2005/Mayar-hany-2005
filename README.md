@@ -20,41 +20,18 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
-</div>
-
----
-
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 
-```python
-class MayarHany:
-    def __init__(self):
-        self.role = "Data Engineer"
-        self.location = "Giza, Egypt 🇪🇬"
-        self.languages = ["Python", "SQL", "DAX"]
-        self.interests = ["ETL Pipelines", "ML", "DL"]
-        
-    def say_hi(self):
-        print("Welcome to my data universe!")
-        print("Turning messy data into magic!")
-        print("Let's engineer some insights together!")
+- 🎓 **Data Engineer** with strong background in **Business Intelligence**
+- 🏢 Experienced in building **ETL pipelines** & **data warehouses**
+- 📊 Passionate about turning raw data into **actionable insights**
+- 🤖 Interested in **Machine Learning & Data-Driven Products**
+- 🌍 Based in **Giza, Egypt 🇪🇬**
 
-me = MayarHany()
-me.say_hi()
-```
+<br clear="both">
 
-</td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
