@@ -23,7 +23,7 @@
 </div>
 
 ---
-<img align="right" width="500"
+<img align="right" width="450"
      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 *👩‍💻 About Me*
 
