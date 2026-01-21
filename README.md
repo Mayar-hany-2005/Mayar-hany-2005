@@ -97,20 +97,12 @@ me.say_hi()
 
 ## 🚀 Current Focus
 
-<table>
-  <tr>
-    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>🔧 Robust ETL Pipelines</b></td>
-    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>🏢 Efficient Data Warehouses</b></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>🐳 Containerized Apps (Docker)</b></td>
-    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>☁️ Cloud Solutions (AWS)</b></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#D8BFD8" width="200" height="80"><b>📚 Apache Spark & Kubernetes</b></td>
-    <td></td>
-  </tr>
-</table>
+- ⚙️ Developing **robust ETL pipelines** for scalable data processing
+- 🏗️ Designing **efficient data warehouse** architectures
+- 🐙 **Containerizing** data applications using Docker
+- ☁️ Deploying **cloud-based solutions** on AWS
+- 🚀 Expanding skills in **Apache Spark** & **Kubernetes**
+
 
 <div align="center">
 
