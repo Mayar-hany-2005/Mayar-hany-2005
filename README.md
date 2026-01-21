@@ -20,7 +20,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
-</div>
 
 ## 👩‍💻 About Me
 
@@ -46,7 +45,6 @@ me.say_hi()
 ```
 
 </td> <td width="40%" align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/> </td> </tr> </table>
----
 
 ## 🛠️ Tech Stack
 
