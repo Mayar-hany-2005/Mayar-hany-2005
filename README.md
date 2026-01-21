@@ -20,6 +20,23 @@
 
 <img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
+<img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/> </div> --- <img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> ## 👩‍💻 About Me
+python
+class MayarHany:
+    def __init__(self):
+        self.role = "Data Engineer"
+        self.location = "Giza, Egypt 🇪🇬"
+        self.languages = ["Python", "SQL", "DAX"]
+        self.interests = ["ETL Pipelines", "Data Warehousing", "ML", "DL"]
+        
+    def say_hi(self):
+        print("👋 Welcome to my data universe!")
+        print("💫 Turning messy data into magic!")
+        print("🚀 Let's engineer some insights together!")
+
+me = MayarHany()
+me.say_hi()
+<br clear="both"> ---
 
 ## 🛠️ Tech Stack
 
