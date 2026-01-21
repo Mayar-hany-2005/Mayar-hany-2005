@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
+<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ## 👩‍💻 About Me
 
@@ -37,9 +37,9 @@ class MayarHany:
         self.interests = ["ETL Pipelines", "Data Warehousing", "ML", "DL"]
         
     def say_hi(self):
-        print(" Welcome to my data universe!")
-        print(" Turning messy data into magic!")
-        print(" Let's engineer some insights together!")
+        print("👋 Welcome to my data universe!")
+        print("💫 Turning messy data into magic!")
+        print("🚀 Let's engineer some insights together!")
 
 me = MayarHany()
 me.say_hi()
