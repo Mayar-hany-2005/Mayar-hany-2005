@@ -1,107 +1,120 @@
 <div align="center">
-  <img src="https://i.imgflip.com/9y7pkr.gif" width="100%" />
+
+<!-- Stunning Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Mayar%20Hany&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20BI%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55"/>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+Transforming+Raw+Data+Into+Business+Value;%F0%9F%94%A7+Building+Scalable+ETL+Pipelines;%F0%9F%8C%8D+Based+in+Cairo%2C+Egypt" alt="Typing SVG" />
+</a>
+
+
+
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayar-hany)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayarhany1999@gmail.com)
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Mayar-hany-2005&style=for-the-badge&color=667eea" alt="Profile Views"/>
+
 </div>
 
+---
 
-<h2 align="center">💗 Hi 👋 I'm Mayar Hany</h2>
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 👩‍💻 About Me
+
+```python
+class MayarHany:
+    def __init__(self):
+        self.role = "Data Engineer"
+        self.location = "Cairo, Egypt 🇪🇬"
+        self.languages = ["Python", "SQL", "DAX"]
+        self.interests = ["ETL Pipelines", "Data Warehousing", "ML"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+        print("Let's build something amazing together!")
+
+me = MayarHany()
+me.say_hi()
+```
+
+
+<br clear="both">
 
 ---
 
-<p align="center">
-  📈 Business Intelligence Developer | 🛠️ Data Engineering | 🤖 ML Enthusiast
-</p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
----
+### 🐍 Programming & Query Languages
 
-## 💡 About Me
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-I'm Mayar Hany, a passionate and motivated data enthusiast with hands-on experience in Python, SQL, Excel, and Power BI.  
-I enjoy diving into datasets from cleaning and exploring to designing visual dashboards and building predictive models that solve real-world problems.  
+### 🗄️ Databases
 
-I'm deeply interested in Machine Learning, Data Science, and transforming raw numbers into meaningful insights through storytelling.  
-I'm also passionate about sharing knowledge and helping others grow in tech. ✨📈
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### 📊 Data & Analytics
 
-### 🧠 Interests
-- Data Analysis & Business Strategy  
-- Artificial Intelligence & Machine Learning  
-- Data Visualization & Storytelling  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🛠️ Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
-- Power BI & Microsoft Excel  
-- SQL & Relational Databases  
+### ☁️ Cloud & DevOps
 
-### 📖 Currently Learning
-- Advanced Machine Learning Techniques  
-- Real-Time Data Pipelines & Big Data Tools  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayar_Hany-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayar-hany-139a2a2a6)
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</p>
-
----
-
-### 🔧 Skills Badges
-
-![Python](https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ff69b4?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-ff69b4?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-ff69b4?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff69b4?style=flat-square&logo=scikit-learn&logoColor=white)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayar-hany-2005&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayar-hany-2005&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayar-hany-2005&theme=radical&hide_border=true&layout=compact&title_color=ff69b4" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayar-hany-2005&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayar-hany-2005&theme=tokyonight&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&hide_border=true"/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayar-hany-2005&custom_title=Contribution%20Graph&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area_color=667eea&area=true&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayar-hany-2005&theme=juicyfresh&no-frame=true&margin-w=4" />
-</p>
-
-
-
-
-
+- 🔧 Building production-grade **ETL pipelines**
+- 🏢 Designing **data warehouse** architectures
+- 🐳 **Containerizing** data applications with Docker
+- ☁️ Implementing **cloud solutions** on AWS
+- 📚 Learning **Apache Spark** & **Kubernetes**
 
 ---
 
-## 🔝 Top Contributed Repo
+<div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Mayar-hany-2005&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 💬 Connect With Me
 
----
+*"Data is the new oil, but like oil, it's valuable only when refined."*
 
-[![](https://visitcount.itsvg.in/api?id=Mayar-hany-2005&icon=4&color=ff69b4)](https://visitcount.itsvg.in)
+**📧 Open to collaborations and opportunities!**
 
-<!-- Proudly created with GPRM 💖 ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+
+</div>
