@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  💻 Data Analyst | 📊 Business Intelligence Developer | 🤖 ML Enthusiast
+  📊 Data Analyst | 📈 Business Intelligence Developer | 🛠️ Data Engineering | 🤖 ML Enthusiast
 </p>
 
 
