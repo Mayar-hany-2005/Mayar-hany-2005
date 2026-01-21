@@ -5,14 +5,14 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+Transforming+Raw+Data+Into+Business+Value;%F0%9F%94%A7+Building+Scalable+ETL+Pipelines;%F0%9F%8C%8D+Based+in+Cairo%2C+Egypt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9A%A1+Transforming+Raw+Data+Into+Business+Value;%F0%9F%94%A7+Building+Scalable+ETL+Pipelines;%F0%9F%8C%8D+Based+in+Giza%2C+Egypt" alt="Typing SVG" />
 </a>
 
 
 
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayar-hany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayar-h-139a2a2a6)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayarhany1999@gmail.com)
 
 
@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Woman-Working.gif"/>
 
 ## 👩‍💻 About Me
 
@@ -32,7 +32,7 @@
 class MayarHany:
     def __init__(self):
         self.role = "Data Engineer"
-        self.location = "Cairo, Egypt 🇪🇬"
+        self.location = "Giza, Egypt 🇪🇬"
         self.languages = ["Python", "SQL", "DAX"]
         self.interests = ["ETL Pipelines", "Data Warehousing", "ML"]
         
