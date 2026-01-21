@@ -23,9 +23,10 @@
 </div>
 
 ---
+<br><br>
 
-<img align="right" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
+<img align="right" width="400"
+     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 ## 👩‍💻 About Me
 
 ```python
